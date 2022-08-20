@@ -17,7 +17,7 @@ export class Budget extends Construct {
                 },
                 budgetName: 'Monthy budget',
                 budgetType: 'COST',
-                timeUnit: 'Monthly',
+                timeUnit: 'MONTHLY',
 
             },
             notificationsWithSubscribers: [
